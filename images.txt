@@ -1,4 +1,4 @@
 nginx:latest
 mysql:latest
 helm:latest
-alipine
+alipine:latest
